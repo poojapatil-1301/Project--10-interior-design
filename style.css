@@ -207,3 +207,12 @@ h1.logo-width {
         padding: 0;
     }
   }
+
+  @media only screen  and (min-width:320px) and (max-width:767px){
+  .class-items {
+    gap: 10px !important;
+  }
+  .call-us {
+    padding-left: 10px !important;
+}
+}
