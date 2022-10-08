@@ -215,4 +215,15 @@ h1.logo-width {
   .call-us {
     padding-left: 10px !important;
 }
+.image-block {
+    margin-left: 23%;
+    margin-top: 7%;
+}
+.image-side-block {
+    margin-left: 56%;
+    margin-top: -45%;
+}
+.hero-description h1 {
+    font-size: 65px;
+  }
 }
