@@ -170,6 +170,8 @@ h1.logo-width {
     .header {
         display: block;
         padding: 30px;
+        width: 80%;
+        margin: 0 auto;
     }
     .image-block{
     margin-left: auto;
