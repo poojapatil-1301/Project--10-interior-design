@@ -165,7 +165,7 @@ h1.logo-width {
 }
 
 
-  @media only screen  and (min-width:320px) and (max-width:768px){
+  @media only screen  and (min-width:320px) and (max-width:767px){
     .container {
         height: auto !important;
     }
